@@ -6,10 +6,10 @@ import travel from "/public/image/travel.jpg";
 export const projectsData = [
   {
     id: 1,
-    name: "Newsroom Management",
+    name: "teamRepublic.in",
     description:
-      "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-    tools: ["NextJS", "Material UI", "Redux", "Sun Editor", "Calendar"],
+      "Welcome to teamRepublic.in, your go-to destination for exploring India's political history. Dive into a treasure trove of historical political results, meticulously curated and presented for your exploration. As we diligently gather data, you'll soon uncover the electoral landscape of India across decades. Stay tuned as we unveil insights, trends, and narratives that shaped the nation's political journey. Join us on TeamRepublic.in as we unravel the past to understand the present and inspire the future of Indian democracy",
+    tools: ["NextJS", "shadcnUI", "Java", "Spring Boot", "MySQL"],
     code: "",
     demo: "",
     image: ayla,
